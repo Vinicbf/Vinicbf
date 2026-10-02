@@ -1,18 +1,13 @@
 ### Hi there 👋
 
-🔭  Participante do programa mentoria em Ciência de dados e Inteligência Artificial, ALFORRIAH do canal:  Programação Dinâmica; Participante da Comunidade Data Science – DS, canal :  Seja Um Data Scientist, e; Cursando a Especialização em Ciência de Dados e Big Data na PUC Minas Virtual. 
+Economista com mais de 15 anos de experiência em pesquisa aplicada, inteligência de mercado e análise setorial para apoio à decisão estratégica em indústria, governo e setor financeiro.
 
-Formado em Ciências Econômicas (2010) pela Universidade Estadual Paulista (UNESP), Mestre em Economia (2013) pela UNESP e Doutor em Economia (2017) pela Universidade Estadual de Campinas (Unicamp). 
+Na CNI, liderei a construção da agenda estratégica da indústria brasileira para a Indústria 4.0 — diagnóstico de maturidade tecnológica e proposição de instrumentos de fomento, em articulação direta com FINEP e BNDES. Projeto premiado, com iniciativas que seguem gerando resultado para o setor industrial.
 
-Fui pesquisador do Grupo de Estudos em Economia Industrial (GEEIN - UNESP) e pesquisador colaborador do Núcleo de Economia Industrial e da Tecnologia (NEIT - Unicamp). 
+No SENAI-SP, atuei no desenho e na governança de dois programas de grande escala voltados a micro, pequenas e médias empresas industriais — a Jornada de Transformação Digital (JTD), maior programa do Brasil no segmento, e a Jornada da Descarbonização — com mais de 10 mil empresas atendidas.
 
-Entre junho/2015 a agosto/2021, trabalhei na Confederação Nacional da Indústria (CNI) responsável pelos temas de indústria 4.0, Digitalização da Economia e Desenvolvimento Tecnológico. 
+Atualmente, atuo como pesquisador independente e consultor em planejamento estratégico e inteligência de mercado, aplicando técnicas de Machine Learning e Inteligência Artificial (classificação, regressão, clustering, LLM e séries temporais) para apoiar decisões de investimento e planejamento estratégico de empresas e instituições. 
 
-Sou uma pessoa orientada para o conhecimento, pesquisa e resultados... e estou buscando novos desafios e oportunidades!
+Nesse período, tenho me dedicado também a uma pesquisa autoral sobre a estrutura da cadeia de oferta da inteligência artificial, mapeando, a partir de dados de patentes do USPTO, como a dinâmica de inovação e a concentração de mercado variam entre as diferentes camadas tecnológicas do setor,  da infraestrutura física e chips aos modelos de IA e aplicações.
 
-Estudando: Ciência de Dados, Data Analysis, Machine Learning, Big Data e Aplicações de Inteligência Artificial na Economia e Negócios.
-
-Experiências:
-Temas: inteligência de mercado, mudanças tecnológicas, Indústria 4.0, estratégias de organização industrial, mecanismos de financiamento à inovação, política industrial, análise de dados, complexidade econômica, formulação de indicadores de inovação e econômicos.
-Métodos: análise multivariada, técnicas de matriz insumo-produto, análise de redes, estatística descritiva e econometria.
-Ferramenta (nível): Python (avançado), Excel (avançado),  SQL (intermediário), R (intermediário), GIT (básico).
+COMPETÊNCIAS-CHAVE:  • Pesquisa Quantitativa e Qualitativa e Metodologia de Investigação Aplicada  • Inteligência de Mercado e Análise Setorial  • Econometria, Estatística Aplicada e Análise Multivariada / Análise de Redes  • Análise de Dados e IA aplicada à leitura de conjuntura e apoio à decisão (Python, R, SQL)  • Dashboards e visualização de dados para tomada de decisão (Power BI, Tableau, Databricks)  • Análise de Políticas Públicas, Inovação e Estrutura Produtiva/Industrial  • Relacionamento Institucional (setor público e privado) e Gestão de Projetos Multidisciplinares   • Design Thinking   •  KPIs,   • Matriz Insumo-Produto   •  A/B Testing   •  Storytelling com Dados   •  Geoprocessamento de dados.
